@@ -1,11 +1,11 @@
 # Site settings
 author: Tomaz Rodrigues
-title: 
+title: Coding With Flatiron
 header-img: img/home-bg.png
 email: tomaz.r.rodrigues@gmail.com
 copyright_name: Tomaz Rodrigues
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My time learning to code with a Flatiron Schools Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Carpe-Omnia
