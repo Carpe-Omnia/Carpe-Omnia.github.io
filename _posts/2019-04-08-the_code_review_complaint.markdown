@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The Code Review Complaint"
-date:       2019-04-09 02:15:10 +0000
+title:      "Thoughts on Code Review "
+date:       2019-04-08 22:15:11 -0400
 permalink:  the_code_review_complaint
 ---
 
