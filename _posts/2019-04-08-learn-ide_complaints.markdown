@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Learn-IDE complaints"
-date:       2019-04-09 02:26:35 +0000
+title:      "Thoughts on the Learn-IDE "
+date:       2019-04-08 22:26:36 -0400
 permalink:  learn-ide_complaints
 ---
 
